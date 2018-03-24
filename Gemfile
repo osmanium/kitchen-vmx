@@ -6,3 +6,5 @@ gemspec
 gem "chefstyle", git: "https://github.com/chef/chefstyle"
 gem "bundler"
 gem "cane"
+gem "kitchen"
+gem "rspec"
