@@ -10,7 +10,6 @@ module Kitchen
   module Driver
     # VMX driver for Kitchen.
     class VMX < Kitchen::Driver::Driver
-      
         def create(state)
         end
 
